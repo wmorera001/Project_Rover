@@ -1,0 +1,29 @@
+Description
+-Main chip: LM393, MQ-7 gas sensor.
+-Operating voltage: DC 3-5V.
+-with the signal output indication.
+-the dual signal output (analog output, and TTL level output).
+-TTL output valid signal is low level, can connected to microcontroller directly.
+-0 ~ 5V analog output voltage, the higher concentration the higher voltage.
+-with high sensitivity and good selectivity for CO.
+-with a long service life and reliable stability.
+-rapid response and recovery characteristics.
+-size: 36mm*24mm*17mm(L * W * H)
+Application:
+-For CO gas detect, CO detection range: 10 ~ 1000ppm.
+MQ-7 Sensor Specifications:
+-Detecting Range: 10 to 1000ppm
+-Sensitivity: R in air/R in typical gas=5
+-Response Time:=150s(70% Response)
+-Recovery Time:=150s(70% Response)
+-Heating Resistance:31O±3O
+-Heating Vlotage:5.0V±0.2V/1.5V±0.1V
+-Heating Power: about 350mW
+-Measuring Voltage:=24V
+Operating Condition:
+-Ambient Temperature:-20?~+55?
+-Humidity: =95%RH
+-Environment oxygen content: 21%
+-Storage Condition:
+-Temperature: -20? to +70?
+-Humidity: =70%RH
